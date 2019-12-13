@@ -1,4 +1,4 @@
-//Made by: Eden Shtein 311396592 and Or Levi 311323034
+
 #include "Vertex.h"
 
 void Vertex::addAdj(Vertex* neighbor)
