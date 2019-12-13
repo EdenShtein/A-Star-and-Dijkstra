@@ -1,4 +1,4 @@
-//Made by: Eden Shtein 311396592 and Or Levi 311323034
+
 #ifndef VERTEX_H
 #define VERTEX_H
 #include <list>
