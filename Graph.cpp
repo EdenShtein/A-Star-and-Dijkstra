@@ -1,4 +1,4 @@
-//Made by: Eden Shtein 311396592 and Or Levi 311323034
+
 #include "Graph.h"
 
 // method to simply add a new node to the graph
